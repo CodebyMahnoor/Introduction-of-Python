@@ -1,7 +1,6 @@
 # Tuples:
 #Tuple is a immutable(cannot change) datatype in python
 
-
 # a=()empty tuple
 # a=(1,)one element daal nai kai liyai comma laga naa parta hai
 # a=(1,2,3) tuple with more then one element
