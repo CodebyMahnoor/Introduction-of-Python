@@ -12,5 +12,4 @@ player1=Player
 if(remote1.isLeftPressed()):
     player1.moveLeft()
 
-
 # Absraction & Encapsulation
