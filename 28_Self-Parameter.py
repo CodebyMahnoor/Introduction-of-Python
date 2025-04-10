@@ -20,8 +20,12 @@ class Employee:
     @staticmethod
     def greet():
         print("Good morning Sir")
+    @staticmethod
+    def time():
+        print("This is time in 9PM")
 
 mano=Employee()
 mano.salary=120000
 mano.getsalary("Thanks") #Employee.getsalary(mano) 
 mano.greet() # Employee.greet()
+mano.time()
