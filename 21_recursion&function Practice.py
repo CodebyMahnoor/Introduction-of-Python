@@ -54,7 +54,6 @@ def remove_split(string,word):
 this ="    mahnoor is a good     "
 n =remove_split(this,"mahnoor")
 print(n)
-
 ''''Q8: write a python function to print ,ultiplication table of a given number.'''
 def table(n):
     print(f"table of,{n}...")
